@@ -1,3 +1,21 @@
+/********************************************************************************* 
+
+WEB322 – Assignment 02 
+I declare that this assignment is my own work in accordance with Seneca
+Academic Policy.  No part of this assignment has been copied manually or 
+electronically from any other source (including 3rd party web sites) or 
+distributed to other students. I acknoledge that violation of this policy
+to any degree results in a ZERO for this assignment and possible failure of
+the course. 
+
+Name: Ashis Roka Som Bahadur
+Student ID: 135377216
+Date: 2023/08/12
+Cyclic Web App URL: https://tiny-gray-sawfish-robe.cyclic.app
+GitHub Repository URL: https://github.com/arsom-bahadur/assignment6
+
+********************************************************************************/
+
 const express = require("express");
 const itemData = require("./store-service");
 const clientSessions = require("client-sessions");
